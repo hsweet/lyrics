@@ -1,0 +1,12 @@
+*.ly
+*~
+*.pdf
+*.ps
+*.png
+*.gif
+*.doc
+*.gz
+*.midi
+*.odt
+chordpro/
+kristin/
