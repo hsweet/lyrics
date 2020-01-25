@@ -2,6 +2,7 @@
 {textsize: 13}
 {chordsize: 13}
 {columns:2}
+{transpose:-2}
 
 A [Dm]kalte nakht, a nepldike, finster umetum
 Shteyt a yingele fartroyert [Gm]un kukt zikh arum
@@ -13,12 +14,13 @@ Hungerik un opgerisn, fun dem regn nas
 Ikh shlep arum zikh fun baginen
 Keyner git nit tsu fardinen
 Ale lakhn makhn fun mir shpas
+
 {soc}
 Kupitye, [Dm]koyf zhe, [A7]koyf zhe papi[Dm]rosn
 Trukene, fun [D7]regn nit far[Gm]gosn
 [A7]Koyf zhe, bilik benemones
-Koyft un hot oyf mir rakh[Dm]mones
-Ratevet fun [A7]hunger mikh [Dm]atsind
+Koyft un hot oyf mir rakhmones
+[Dm]Ratevet fun [A7]hunger mikh [Dm]atsind
 
 Kupitye, koyf zhe shvebelekh antikn
 Dermit vet ir a yoseml derkvikn
@@ -32,10 +34,15 @@ Mit mir tsuzamen zikh geshlept hot zi a gantse yor
 Mit ir geven iz mir fil gringer. Laykhter vern flegt der hinger
 Ven ikh fleg a kuk ton nor oyf ir
 
+{column_break}
 Mit a mol gevorn iz zi shvakh un zeyer krank
 Oyf mayne hent geshtorbn iz zi oyf a gasnbank
 Un az ikh hob zi farloyrn, hob ikh alts ongevoryrn
 Zol der toyt shoyn kumen oykh tsu mir
+
+*************************************************
+**************    English   *********************
+*************************************************
  
 My father went to fight and lost his hands in the war
 Mother couldn't hardly bear her troubles any more
