@@ -1,0 +1,48 @@
+{t:Grey Cat On A Tenesee Farm}
+{st:Uncle Dave Macon}
+
+{start_of_ly}
+\version "2.22.0"
+\relative c'' {
+\include "english.ly"
+\key d\major
+\time 2/4
+a8  b16 a d8 e
+fs16 d e8 d d16 b
+a16 fs a b d8 d16 b
+a16 fs e8 d8 a' |
+\break
+%vocal
+a8 ^vocal b16 b d8. e16
+fs8 e16 e d4
+a8 a16 b d d d b
+a16 fs e8 d4
+}
+{end_of_ly} 
+[D]Jes' look to the man who can if he will
+Prosper in the valley of the [A]Tennessee [D]hills
+
+{soc}
+[D]Big cat spit in the [A]little cat's [D]eye
+Little cat, little cat [A]don't you cry
+[D]I do love liquor and-a we'll [A]all take a [D]dram
+I'm gonna tell you, [A]pretty Polly [D]Ann
+{eoc}
+
+Cattle in the pasture, hogs in the pen
+Sheep on the ranch and-a wheat in the bin
+
+Corn in the crib, and porter in the yard
+Meat in the smokehouse and a big tub  o' lard
+
+Fruit in the cellar, and cheese on the board
+A bottle of Kombuchia, And-a sugar in the gourd
+..(or, coffee's on the table)
+
+Horses in his stable and money in his pocket
+A baby in the cradle, And a pretty woman to rock it
+
+Kitten's in the bedroom, money's in the bank
+Dinner's on the table, and gas is in the tank. 
+
+

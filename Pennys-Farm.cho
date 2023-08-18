@@ -1,0 +1,51 @@
+{t:Penny's Farm}
+{start_of_ly}
+\version "2.22.0"
+\relative c'' {
+\include "english.ly"
+\key g\major
+\time 2/4
+ { d16 d d8 e16 e e e
+ d16 d d8 b4|
+ d16 d8 d16 e8 e16 e
+ d16 d d8 b4
+ 
+  d16 d8 d16 e8 e16 e
+  d8 d b4
+  g16 g8. g16 g g g
+  a16 g8. e16  d8 d16
+  
+  g8 g4 g16 a
+  b8 d4.
+  d16 d8. e16 d8. 
+  g,2
+ 
+ }
+}
+{end_of_ly} 
+[G]Come ladies and [C]gentlemen and listen to my song.
+I'll sing it to you [C]right, but you [G]might think it's wrong.
+It may make you [C]mad, but I [G]mean no harm.
+It's [C]all about the renters on Penny's farm.
+{soc}
+[G]Hard times in the country, down on [D]Penny's [C]farm.
+{eoc}
+Well, you move on out to Penny's farm,
+Plant a little crop o' 'bacco and little crop o' corn.
+He'll come around and he'll plan and plot,
+Till he gets himself a mortgage on everything you got.
+
+Well, here's George Penny coming into town,
+With a wagon-load of peaches, not one of 'em sound.
+He's got to have his money or somebody's check.
+You pay him for a bushel and you don't get a peck.
+
+Then George Penny's renters, they come into town,
+With their hands in their pockets, and their heads hanging down,
+Go in the store and the merchant will say,
+"Your mortgage is due and I'm looking for my pay."
+
+Goes down in his pocket with a trembling hand --
+"Can't pay you all, but I'll pay you what I can."
+Then to the telephone the merchant makes a call,
+"They'll put you on the chain gang if you don't pay it all."

@@ -1,0 +1,65 @@
+{t:Stay On The Farm}
+
+#{textsize:12}
+#{chordsize: 12}}
+#{columns: 2}
+{start_of_ly}
+\version "2.22.0"
+\relative c'' {
+\include "english.ly"
+\key g\major
+\time 4/4
+ {
+ g4 g8 g  g fs4 e8
+ d2 b4. d8
+ e4 e8 fs g fs4 e8
+ d2. r8 d
+ 
+ e8 e4 fs8 g4 g8. e16
+ d2 g4. g8 
+ g8 g4 g8 g fs4 e8
+ a2. r8 d,
+  %city
+ a'8 a4 a8 a4 g8 a
+ b2 g4. d8
+ e8 e4 fs8 g g4 e8
+ d2. r8 d %sins 
+ 
+ e4 e8. fs16 g8 g4 e8
+ d2 g4. g8
+ fs4 fs8 fs fs b4 a8
+ g2. g8 a \bar"||"
+ 
+ %stay on
+ r8 b^Stay b8. a16 g4 d4~
+ d8 e e8. fs16 g4. e8
+ d8 g4 g8 g4 fs8 g
+ a1
+ 
+ r8 b' b8. a16 g4 d4~
+ d8 e e8. fs16 g4. e8
+ d8 d4 d8 a'8 e4 fs8
+ g1
+ }
+}
+{end_of_ly}
+Come [G]boys I have [C]something to [G]tell you, Come [C]near I will whisper it [G]low;
+You're [C]thinking of leaving the [G]homestead, Don't be in a hurry to [D]go.
+
+The city has many at[G]tractions, But [C]think of it's vices and [G]sins,
+When [C]once in the vortex of [G]fashion, How [D7]soon your destruction be[G]gins.
+
+{soc}
+[G]Stay on the farm, boys, [C]stay on the farm, Though [G]profits come in rather [D]slow,
+[G]Stay on the farm, boys, [C]stay on the farm, Don't [G]be in a [D7]hurry to [G]go.
+{eoc}
+#{column_break}
+
+You [G]talk of the [C]mines in [G]Australia, They're [C]wealthy in treasure no [G]doubt,
+And yet there is [C]gold in the farm, [G]boys, If only you'll shovel it [D]out.
+
+The mercantile life is a [G]hazard, Sur[C]rounded by glitter and [G]show,
+And [C]wealth isn't made in a [G]day, boys, Don't [D7]be in a hurry to [G]go.
+
+
+

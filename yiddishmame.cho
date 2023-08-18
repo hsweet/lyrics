@@ -1,29 +1,24 @@
-{t:Yidishe Mame}
+{t:Yiddishe Mame}
+
+#{grid}
 {define: Cm6 base-fret 0 frets 1 2 2 3 x x}
-Ikh [Gm]vil bay aykh a kashe [Cm6]fregen,
-zogt mir ver es [D]ken
-Mit [Gm]velkhe tayere far[Cm6]megen bentcht got [D]alemen?
-Men [Cm]koyft dos nisht fir [F]kayne gelt,
-Dos git men nor [Bb]umzist
-On dokh az men [Cm]ferlirt dos,
-Oy vi [D7]treren men [Gm]argist
-A [Cm]tzvayten git men [F]kaynem nit, es helft nisht kayn [Bb]gevayn
-Oy, [Cm]ver es hot farloyrn, der vays [D7]shoyn vos ikh [Gm]mayn.
+{define: Eb base-fret 0 frets 3 1 1 3 x x}
+{define: Fm6 base-fret 0 frets 1 0 3 1 x x}
+{define: Ab base-fret 0 frets 1 1 3 4 x x}
+Ikh [Cm]vil bay aykh a kashe [Fm6]fregen, zogt mir ver es [G]ken
+Mit [Cm]velkhe tayere far[Fm6]megen bentcht got [G]alemen?
+Men [Fm]koyft dos nisht far [Bb]kayne gelt, Dos git men nor [Eb]umzist
+On dokh az men [Fm]ferlirt dos, Oy vi [G7]treren men [Cm]argist
+A [Fm]tzvayten git men [Bb]kaynem nit, es helft nisht kayn [Eb]gevayn
+Oy, [Fm]ver es hot farloyrn, der vays [G7]shoyn vos ikh [Cm]mayn.
+ 
+A Yiddishe [Cm]Mame, Es gibt nisht [Fm6]besser oif der [G]velt
+A [G7]Yiddish [Fm]Ma[G]me, Oy vey vi [G7]bitter ven zi [Cm]felt
+Vi shayn in [Fm]likhtig iz in hoiz ven di [Bb]mame iz [Eb]do
+Vi troyerig [Fm]finster vert ven [G7]Got nemt ir oif [Eb]Olam Haboh
 
-{soc}
-A Yiddishe [Gm]Mame,
-Es gibt nisht [Cm6]besser oif der [D]velt
-A [D7]Yiddish [Cm6]Mame,
-Oy vey vi [D7]bitter ven zi [Gm]felt
-Vi shayn in [Cm]likhtig iz in hoiz ven di [F]mame iz [Bb]do
-Vi troyerig [Cm]finster vert ven [D7]Got nemt ir oif [Bb]Olam Haboh
-{eoc}
-
-In vasser in [Gm]fayer,
-Volt zi gelofn far ihr [D]kind
-Nisht halten ihr [Cm6]tayer,
-Dos iz ge[D7]vis di gresten [Gm]zind
-Oy, vi [Cm]gliklekh un raykh iz der [F]mentsh vos [Bb]hot
-Aza [Cm]shayne matuneh ges[D7]henkt foon [Bb]G-t,
-Nor ayn [Cm]altichke Yiddishe [Eb]Ma[Cm]me,
-Oy, [D7]Mame [Gm]Mayn!
+In vasser in [Cm]fayer, Volt zi gelofn far ihr [G]kind
+Nisht halten ihr [Fm]tay[G]er, Dos iz ge[G7]vis di gresten [Cm]zind
+Oy, vi [Fm]gliklekh un raykh iz der [Bb]mentsh vos [Eb]hot
+Aza [Fm]shayne matuneh ges[G7]henkt foon [Eb]G-t,
+Nor ayn [Fm]altichke Yiddishe [Ab]Ma[Fm]me, Yiddishe [G7]Mame [Cm]Mayn!(end)[G7][Cm]
