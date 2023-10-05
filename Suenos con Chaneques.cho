@@ -1,6 +1,24 @@
 {t:Sueños con Chaneques}
-{st:Dylan Thomas}
-
+{st:Dylan Blackthorn}
+{start_of_ly}
+\version "2.22.0"
+\include "english.ly"
+\relative c' {
+\key a\minor
+\time 4/4
+ { 
+  c8^intro  a r4 a16 b c d e8 d16 c
+  d8 b r4 r2
+  d8 b r4 b16 c d e d8 c16 b 
+  c8 a r4 r2 \bar "||"
+  
+  a16 ^low b c b a2.\bar "||"
+  \partial 8 e''16 e
+  e8 d16 d d8 c16 c c8 b16 b b8 g
+  a1
+ }
+}
+{end_of_ly}
 You [Am]might think that we gave up the fight a long time a[E]go
 Under the shade of a Capoc tree, we decided to lay [Am]low
 Dreaming with a tranquil heart and a peaceful [E]mind
@@ -18,5 +36,8 @@ Did you [Am]think you could just wash your poison off in our [E]spring?
 I advise you to listen, and heed every word that we [Am]sing
 If you bathe in the sacred water, we will steal your [E]clothes
 Then you must come to the underworld to reclaim your [Am]soul
+
+______ out
+Yat da, yada yada da... 
  
  
